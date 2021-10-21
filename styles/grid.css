@@ -26,7 +26,7 @@ body, .page-container, .header, .footers{
 .main-content {
     display: grid;
     grid-template-rows: 100px auto;
-    grid-gap: 50px;
+    grid-gap: 20px;
 }
 
 .header{
@@ -142,6 +142,10 @@ body, .page-container, .header, .footers{
     width: 415px;
     object-fit: cover;
     margin-right: 50px;
+}
+
+.office-section{
+    margin-bottom: 100px;
 }
 
 .placeholder{
