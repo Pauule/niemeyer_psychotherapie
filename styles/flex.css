@@ -1,0 +1,5 @@
+.flexcol { display:flex; flex-direction: column; }
+.flexrow { display:flex; flex-direction: row; }
+.justify-center { justify-content: center }
+.justify-between { justify-content: space-between }
+.justify-evenly { justify-content: space-evenly }

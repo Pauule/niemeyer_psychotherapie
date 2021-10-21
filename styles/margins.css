@@ -1,0 +1,70 @@
+.mx-auto { position:block; margin-left: auto; margin-right: auto }
+.mx-10 { margin-left: 10%; margin-right: 10% }
+.mx-15 { margin-left: 15%; margin-right: 15% }
+.mx-20 { margin-left: 20%; margin-right: 20% }
+.mx-25 { margin-left: 25%; margin-right: 25% }
+.mx-30 { margin-left: 30%; margin-right: 30% }
+.mx-35 { margin-left: 35%; margin-right: 35% }
+.mx-40 { margin-left: 40%; margin-right: 40% }
+.mx-45 { margin-left: 45%; margin-right: 45% }
+.mx-50 { margin-left: 50%; margin-right: 50% }
+
+.ml-10 { margin-left: 10% }
+.ml-15 { margin-left: 15% }
+.ml-20 { margin-left: 20% }
+.ml-25 { margin-left: 25% }
+.ml-30 { margin-left: 30% }
+.ml-35 { margin-left: 35% }
+.ml-40 { margin-left: 40% }
+.ml-45 { margin-left: 45% }
+.ml-50 { margin-left: 50% }
+
+.mr-10 { margin-right: 10% }
+.mr-15 { margin-right: 15% }
+.mr-20 { margin-right: 20% }
+.mr-25 { margin-right: 25% }
+.mr-30 { margin-right: 30% }
+.mr-35 { margin-right: 35% }
+.mr-40 { margin-right: 40% }
+.mr-45 { margin-right: 45% }
+.mr-50 { margin-right: 50% }
+
+.mt-10 { margin-top: 10% }
+.mt-15 { margin-top: 15% }
+.mt-20 { margin-top: 20% }
+.mt-25 { margin-top: 25% }
+.mt-30 { margin-top: 30% }
+.mt-35 { margin-top: 35% }
+.mt-40 { margin-top: 40% }
+.mt-45 { margin-top: 45% }
+.mt-50 { margin-top: 50% }
+
+.mb-10 { margin-bottom: 10% }
+.mb-15 { margin-bottom: 15% }
+.mb-20 { margin-bottom: 20% }
+.mb-25 { margin-bottom: 25% }
+.mb-30 { margin-bottom: 30% }
+.mb-35 { margin-bottom: 35% }
+.mb-40 { margin-bottom: 40% }
+.mb-45 { margin-bottom: 45% }
+.mb-50 { margin-bottom: 50% }
+
+.my-10 { margin-top: 10%; margin-bottom: 10% }
+.my-15 { margin-top: 15%; margin-bottom: 15% }
+.my-20 { margin-top: 20%; margin-bottom: 20% }
+.my-25 { margin-top: 25%; margin-bottom: 25% }
+.my-30 { margin-top: 30%; margin-bottom: 30% }
+.my-35 { margin-top: 35%; margin-bottom: 35% }
+.my-40 { margin-top: 40%; margin-bottom: 40% }
+.my-45 { margin-top: 45%; margin-bottom: 45% }
+.my-50 { margin-top: 50%; margin-bottom: 50% }
+
+.m-10 { margin-top: 10%; margin-bottom: 10%; margin-left: 10%; margin-right: 10% }
+.m-15 { margin-top: 15%; margin-bottom: 15%; margin-left: 15%; margin-right: 15% }
+.m-20 { margin-top: 20%; margin-bottom: 20%; margin-left: 20%; margin-right: 20% }
+.m-25 { margin-top: 25%; margin-bottom: 25%; margin-left: 25%; margin-right: 25% }
+.m-30 { margin-top: 30%; margin-bottom: 30%; margin-left: 30%; margin-right: 30% }
+.m-35 { margin-top: 35%; margin-bottom: 35%; margin-left: 35%; margin-right: 35% }
+.m-40 { margin-top: 40%; margin-bottom: 40%; margin-left: 40%; margin-right: 40% }
+.m-45 { margin-top: 45%; margin-bottom: 45%; margin-left: 45%; margin-right: 45% }
+.m-50 { margin-top: 50%; margin-bottom: 50%; margin-left: 50%; margin-right: 50% }

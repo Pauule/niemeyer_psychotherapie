@@ -1,0 +1,192 @@
+*{
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+    background: white;
+    overflow-x: hidden;
+}
+
+.p-fixed { position: fixed }
+.p-absolute { position: absolute }
+.p-relative { position: relative }
+.p-block { position: block }
+
+.header{
+    width: 100vw;
+    height: 150px;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+}
+
+.header-brand{
+    width: 320px;
+    height: 100px;
+    margin-left: 150px;
+    margin-top: 25px;
+}
+
+.header-text > h3{
+    width: 225px;
+    height:90px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.header-icon{
+    width: 90px;
+    height: 90px;
+}
+
+.header-buttons{
+    width: 470px;
+    height: 50px;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+.header-button{
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.header-button-em{
+    width: 150px;
+    height: 50px;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.content{
+    width: 87.5%;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    padding-left: 6.25%;
+    padding-right: 6.25%;
+}
+
+.about{
+    margin-top: 50px
+}
+
+.section{
+    width: 92%;
+    margin-left: 4%;
+}
+
+.about-text{
+    width: 40%;
+}
+
+.text-header{
+    width:100%;
+    text-align: left;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    margin-bottom: 20px;
+}
+
+.text-body{
+    width: 100%;
+    text-align:left;
+    font-size: 18px;
+    line-height: 29px;
+}
+
+.doctor-image{
+    height: 600px;
+}
+
+.office{
+    margin-top: 50px
+}
+
+.office-text > .text-body{
+    line-height: 160%;
+    font-size: 20px;
+}
+
+.gallery{
+    height: 490px;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.gallery > img{
+    height: 490px;
+    width: 415px;
+    object-fit: cover;
+    margin-right: 50px;
+}
+
+.footers{
+    width: 100%;
+    height: 550px;
+    margin-bottom: 0px;
+    margin-top: 100px;
+}
+
+.contact-footer{
+    height: 450px;
+    padding: 50px;
+}
+
+.contact-footer-elems{
+    width: 50%;
+}
+
+.contact-footer-elem-icon {
+    width: 50px;
+    height: 50px;
+    background: red;
+}
+
+.contact-footer-elem-data{
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.contact-footer-map{
+    width: 50%;
+}
+
+.contact-footer-map-header{
+    
+}
+
+.contact-footer-map-map{
+    
+}
+
+.footer{
+    height: 100px;
+}
+
+.footer-copyright{
+    height: 100%;
+    margin-left: 150px;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+.footer-buttons-container{
+    height: 100%;
+    margin-right: 150px;
+}
+
+.footer-buttons{
+    width: 190px;
+}
+
+.footer-button{
+    font-size: 13px;
+    line-height: 16px;
+}
